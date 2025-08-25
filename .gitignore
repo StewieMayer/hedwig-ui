@@ -1,0 +1,12 @@
+# Modules
+node_modules
+
+# Build things
+dist
+
+# Environments
+.env
+.env.*
+
+# Logs and test
+coverage
